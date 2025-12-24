@@ -1,14 +1,19 @@
 # Syntron MBOX Control System Tool
 
 This is a modern C# .NET Windows Forms application for SYNTROC SC-MBOX v3 motion control board.
+
 It controls a 3, 6, 10-axis motion platform (MBOX) via UDP network communication.
+
 This tool is a work in progress. Research based on original Chinese documentation and now defunct VB6 app.
 
 I did this for the purpose of controlling my VR360 chair, made by NineD.
+
 Demo vide: https://youtu.be/qMGMdICjUk8
 
 Default Board IP: 192.168.233.201
+
 Default PC IP: 192.168.233.100
+
 Default ports: Host 8410 <--> Board 7408 (UDP)
 
 ## Requirements
