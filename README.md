@@ -16,6 +16,8 @@ Default PC IP: 192.168.233.100
 
 Default ports: Host 8410 <--> Board 7408 (UDP)
 
+See **joystick-integration** branch for a joystick control demo.
+
 ## Requirements
 
 - .NET 10.0 SDK or later (you might easy backport to .NET 6.0, it was tested with .NET 6.0)
